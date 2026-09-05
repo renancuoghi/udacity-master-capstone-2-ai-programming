@@ -8,6 +8,10 @@ documented functions, explores pricing and availability patterns, and produces f
 visualizations — all inside a single, top-to-bottom-runnable Jupyter notebook. The workflow is
 meant to serve as a clean, reusable foundation for later machine learning and deep learning work.
 
+### Repository
+
+Repository: [link](https://github.com/renancuoghi/udacity-master-capstone-2-ai-programming)
+
 ## What Was Built
 
 - `data_workflow.ipynb` — the full data workflow: setup, ingestion, cleaning, EDA, visualizations, and summary
